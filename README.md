@@ -113,15 +113,15 @@ python3 main.py
 <p>
 <br>
 
-- Enable the worker after deploy the project to Heroku.
+- Eɴᴀʙʟᴇ ᴛʜᴇ ᴡᴏʀᴋᴇʀ ᴀғᴛᴇʀ ᴅᴇᴘʟᴏʏ ᴛʜᴇ ᴘʀᴏᴊᴇᴄᴛ ᴛᴏ Hᴇʀᴏᴋᴜ.
 
-- Bot will starts radio automatically in given `CHAT` with given `STREAM_URL` after deploy.(24*7 Music even if heroku restarts, radio stream restarts automatically).
+- Bᴏᴛ ᴡɪʟʟ sᴛᴀʀᴛs ʀᴀᴅɪᴏ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ɪɴ ɢɪᴠᴇɴ `CHAT` ᴡɪᴛʜ ɢɪᴠᴇɴ `STREAM_URL` ᴀғᴛᴇʀ ᴅᴇᴘʟᴏʏ.(24*7 Mᴜsɪᴄ ᴇᴠᴇɴ ɪғ ʜᴇʀᴏᴋᴜ ʀᴇsᴛᴀʀᴛs, ʀᴀᴅɪᴏ sᴛʀᴇᴀᴍ ʀᴇsᴛᴀʀᴛs ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ).
 
-- To play a song use /play as a reply to audio file or a youtube link.
+- Tᴏ ᴘʟᴀʏ ᴀ sᴏɴɢ ᴜsᴇ /ᴘʟᴀʏ ᴀs ᴀ ʀᴇᴘʟʏ ᴛᴏ ᴀᴜᴅɪᴏ ғɪʟᴇ ᴏʀ ᴀ ʏᴏᴜᴛᴜʙᴇ ʟɪɴᴋ.
 
-- Use /play <song name> to play song from youtube and /dplay <song name> to play from Deezer.
+- Usᴇ /ᴘʟᴀʏ <sᴏɴɢ ɴᴀᴍᴇ> ᴛᴏ ᴘʟᴀʏ sᴏɴɢ ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ ᴀɴᴅ /ᴅᴘʟᴀʏ <sᴏɴɢ ɴᴀᴍᴇ> ᴛᴏ ᴘʟᴀʏ ғʀᴏᴍ Dᴇᴇᴢᴇʀ.
 
-- Use /help to know about other commands.
+- Usᴇ /ʜᴇʟᴘ ᴛᴏ ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅs.
 
 ---
 
