@@ -1,6 +1,6 @@
 """
-VC Music Player, Telegram Voice Chat Userbot
-Copyright (C) 2021  Zaute Km | TGVCSETS
+XMARTY MUSIC PLAYER, Telegram Voice Chat Userbot
+Copyright (C) 2021  Legend Salim 
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -161,14 +161,14 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data=="help":
         buttons = [
             [
-                InlineKeyboardButton("🔥 Source Code 🔥", url='https://github.com/LushaiMusic/VCMusicPlayer'),
+                InlineKeyboardButton("🔥 Source Code 🔥", url='https://github.com/S780821/Xmarty_Music_4'),
             ],
             [
-               InlineKeyboardButton('👥 Group', url='https://t.me/iZaute/5'),
-               InlineKeyboardButton('Channel 📢', url='https://t.me/iZaute/6'),
+               InlineKeyboardButton('👥 Group', url='https://t.me/Xmarty_Support'),
+               InlineKeyboardButton('Channel 📢', url='https://t.me/Xmarty_Support'),
             ],
             [
-               InlineKeyboardButton('🔰 How to Deploy 🔰', url='https://t.me/c/1481808444/131'),
+               InlineKeyboardButton('🔰 How to Deploy 🔰', url='https://t.me/Xmarty_Support'),
         
             ]
         ]
