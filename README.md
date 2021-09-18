@@ -71,7 +71,10 @@
 <a href="https://heroku.com/deploy?template=https://github.com/S780821/Xmarty_Music_4">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
-<details><summary><b>Deploy with Netlify<b></summary>
+<details>
+
+<details>
+   <summary><b>Deploy with Netlify<b></summary>
 <p>
 <a href="(https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/S780821/XMARTY_MUSIC_4
 </a>
