@@ -122,14 +122,11 @@ python3 main.py
 - Use /play <song name> to play song from youtube and /dplay <song name> to play from Deezer.
 
 - Use /help to know about other commands.
-</a>
-</p>
-</details>
 
 ---
 
 #### Sᴜᴘᴘᴏʀᴛ
-Join Now Telegram [XMARTY MUSIC](https://t.me/c/1481808444/131)
+Join Now Telegram [XMARTY MUSIC](https://t.me/Xmarty_Support)
 
 ## ʀᴇϙᴜɪʀᴇᴍᴇɴᴛs
 
