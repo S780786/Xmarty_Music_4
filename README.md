@@ -1,15 +1,16 @@
-# VCMusicPlayer v3.0
+# XMARTYMUSIC 4
 
-- An Telegram Bot to Play Radio/Music in Channel or Group Voice Chats.
-- A Telegram Bot to Play Audio in Voice Chats With Youtube and Deezer support.
-- Supports Live streaming from YouTube.
+- Aɴ Tᴇʟᴇɢʀᴀᴍ Bᴏᴛ ᴛᴏ Pʟᴀʏ Rᴀᴅɪᴏ/Mᴜsɪᴄ ɪɴ Cʜᴀɴɴᴇʟ ᴏʀ Gʀᴏᴜᴘ Vᴏɪᴄᴇ Cʜᴀᴛs.
+
+- A Tᴇʟᴇɢʀᴀᴍ Bᴏᴛ ᴛᴏ Pʟᴀʏ Aᴜᴅɪᴏ ɪɴ Vᴏɪᴄᴇ Cʜᴀᴛs Wɪᴛʜ Yᴏᴜᴛᴜʙᴇ ᴀɴᴅ Dᴇᴇᴢᴇʀ sᴜᴘᴘᴏʀᴛ.
+
+- Sᴜᴘᴘᴏʀᴛs Lɪᴠᴇ sᴛʀᴇᴀᴍɪɴɢ ғʀᴏᴍ YᴏᴜTᴜʙᴇ.
 
 ---
 
 ## NOTE:
 
-- Make sure you have started a VoiceChat in your Group before deploying.
-
+- ɱαҡε รµɾε ყσµ ɦαѵε รƭαɾƭε∂ α ѵσเcεcɦαƭ เɳ ყσµɾ ɠɾσµρ ɓεƒσɾε ∂ερℓσყเɳɠ.
 ---
 
 ## Features
@@ -18,15 +19,21 @@
   <summary><b>Show the Features</b></summary>
 <br/>
 
-- Playlist, queue
-- Change VoiceChat title to current playing song name.
-- Supports Live streaming from youtube
-- Supports both deezer and youtube to search songs.
-- Play from telegram file supported.
-- Starts Radio after if no songs in playlist.
-- Automatically downloads audio for the first two tracks in the playlist to ensure smooth playing
-- Automatic restart even if heroku restarts.
+- ᴘʟᴀʏʟɪsᴛ, ϙᴜᴇᴜᴇ
 
+- ᴄʜᴀɴɢᴇ ᴠᴏɪᴄᴇᴄʜᴀᴛ ᴛɪᴛʟᴇ ᴛᴏ ᴄᴜʀʀᴇɴᴛ ᴘʟᴀʏɪɴɢ sᴏɴɢ ɴᴀᴍᴇ.
+
+- sᴜᴘᴘᴏʀᴛs ʟɪᴠᴇ sᴛʀᴇᴀᴍɪɴɢ ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ
+
+- sᴜᴘᴘᴏʀᴛs ʙᴏᴛʜ ᴅᴇᴇᴢᴇʀ ᴀɴᴅ ʏᴏᴜᴛᴜʙᴇ ᴛᴏ sᴇᴀʀᴄʜ sᴏɴɢs.
+
+- ᴘʟᴀʏ ғʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ sᴜᴘᴘᴏʀᴛᴇᴅ.
+
+- sᴛᴀʀᴛs ʀᴀᴅɪᴏ ᴀғᴛᴇʀ ɪғ ɴᴏ sᴏɴɢs ɪɴ ᴘʟᴀʏʟɪsᴛ.
+
+- ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴅᴏᴡɴʟᴏᴀᴅs ᴀᴜᴅɪᴏ ғᴏʀ ᴛʜᴇ ғɪʀsᴛ ᴛᴡᴏ ᴛʀᴀᴄᴋs ɪɴ ᴛʜᴇ ᴘʟᴀʏʟɪsᴛ ᴛᴏ ᴇɴsᴜʀᴇ sᴍᴏᴏᴛʜ ᴘʟᴀʏɪɴɢ
+
+- ᴀᴜᴛᴏᴍᴀᴛɪᴄ ʀᴇsᴛᴀʀᴛ ᴇᴠᴇɴ ɪғ ʜᴇʀᴏᴋᴜ ʀᴇsᴛᴀʀᴛs.
 </details>
 
 ---
@@ -54,7 +61,7 @@
 
 ---
 
-## Deploy Now
+## Dᴇᴘʟᴏʏ Nᴏᴡ
 
 <details><summary><b>Deploy to Heroku</b></summary>
 <p>
@@ -121,10 +128,10 @@ python3 main.py
 
 ---
 
-#### Support
-Join Now Telegram [VC Music Live Sets](https://t.me/c/1481808444/131)
+#### Sᴜᴘᴘᴏʀᴛ
+Join Now Telegram [XMARTY MUSIC](https://t.me/c/1481808444/131)
 
-## Requirements
+## ʀᴇϙᴜɪʀᴇᴍᴇɴᴛs
 
 - Python 3.6 or higher.
 - A
@@ -135,10 +142,10 @@ Join Now Telegram [VC Music Live Sets](https://t.me/c/1481808444/131)
 - Userbot Needs To Be Admin In The Channel or Group.
 - Must Start A Voice Chat In Channel/Group Before Running The Bot.
 
-## License
+## Lɪᴄᴇɴsᴇ
 ```sh
-VC Music Player, Telegram Voice Chat Userbot
-Copyright (C) 2021  Zaute Km
+XMARTY MUSIC Player, Telegram Voice Chat Userbot
+Copyright (C) 2021  Legend Salim
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -157,7 +164,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 ---
 
 ## Credits
-
-- [Zaute Km](https://github.com/ZauteKm) [Dev]
-- [Dash Eclipse](https://github.com/dashezup) [For tgvc_userbot]
-- [Marshal X](https://github.com/MarshalX) [For pytgcalls]
+ͲᎻᎪΝᏦՏ ҒϴᎡ ႮՏᏆΝᏀ ᎷᎽ ᎡᎬᏢϴ
