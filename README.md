@@ -73,10 +73,11 @@
 
 <details>
 
-<details>
-   <summary><b>Deploy with Netlify<b></summary>
+<details><summary><b>Deploy with Netlify<b></summary>
 <p>
-<a href="(https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/S780821/XMARTY_MUSIC_4
+<br>
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/S780821/XMARTY_MUSIC_4">
+  <img src="https://www.netlify.com/img/deploy/button.svg)]
 </a>
 </p>
 </details>
