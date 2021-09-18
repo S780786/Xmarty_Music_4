@@ -21,11 +21,11 @@ from config import Config
 REPLY_MESSAGE=Config.REPLY_MESSAGE
 buttons = [
     [
-        InlineKeyboardButton('🏃 Deploy to Heroku 🏃', url='https://heroku.com/deploy?template=https://github.com/LushaiMusic/VCMusicPlayer'),
+        InlineKeyboardButton('🏃 Deploy to Heroku 🏃', url='https://heroku.com/deploy?template=https://github.com/S780821/XMARTY_MUSIC_4'),
     ],
     [
         InlineKeyboardButton('👨‍🎤 Play Music', url=f'https://t.me/{USERNAME}'),
-        InlineKeyboardButton('How to Deploy 🤓', url='https://t.me/c/1481808444/131'),
+        InlineKeyboardButton('How to Deploy 🤓', url='https://t.me/Xmarty_Support'),
     ],
     [
         InlineKeyboardButton('🆘 Help & Commands 🆘', callback_data='help')       
