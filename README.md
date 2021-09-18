@@ -1,4 +1,4 @@
-# XMARTYMUSIC 4
+# ✗៣♬ƦƬƴ៣⩏នɨ¢ 4
 
 - Aɴ Tᴇʟᴇɢʀᴀᴍ Bᴏᴛ ᴛᴏ Pʟᴀʏ Rᴀᴅɪᴏ/Mᴜsɪᴄ ɪɴ Cʜᴀɴɴᴇʟ ᴏʀ Gʀᴏᴜᴘ Vᴏɪᴄᴇ Cʜᴀᴛs.
 
@@ -8,12 +8,12 @@
 
 ---
 
-## NOTE:
+## иοτє:
 
 - ɱαҡε รµɾε ყσµ ɦαѵε รƭαɾƭε∂ α ѵσเcεcɦαƭ เɳ ყσµɾ ɠɾσµρ ɓεƒσɾε ∂ερℓσყเɳɠ.
 ---
 
-## Features
+## ҒᎬᎪͲႮᎡᎬՏ
 
 <details>
   <summary><b>Show the Features</b></summary>
@@ -38,7 +38,7 @@
 
 ---
 
-## Variables
+## Vᴀʀɪᴀʙʟᴇs
 <details>
   <summary><b>See Variables</b></summary>
 <br/>
@@ -63,10 +63,10 @@
 
 ## Dᴇᴘʟᴏʏ Nᴏᴡ
 
-<details><summary><b>Deploy to Heroku</b></summary>
+<details><summary><b>Dᴇᴘʟᴏʏ ᴛᴏ Hᴇʀᴏᴋᴜ</b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/LushaiMusic/VCMusicPlayer">
+<a href="https://heroku.com/deploy?template=https://github.com/S780821/Xmarty_Music_4">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
 <a href="https://youtu.be/FKaAU4Pr2bw"><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Heroku-blue.svg?logo=Youtube"></a>
@@ -76,7 +76,7 @@
 </details>
 
 <details>
-  <summary><b>Deploy on Qovery</b></summary>
+  <summary><b>ᴅᴇᴘʟᴏʏ ᴏɴ ϙᴏᴠᴇʀʏ</b></summary>
 <br/>
 
 <p align="left">
@@ -93,7 +93,7 @@
 </details>
 
 <details>
-  <summary><b>Deploy in your VPS</b></summary>
+  <summary><b>ᴅᵉᵖˡᵒʸ ⁱⁿ ʸᵒᵘʳ ᴠᴘs</b></summary>
 <br/>
 
 ```sh
@@ -104,11 +104,11 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 
-</details>
+</ᴅᴇᴛᴀɪʟs>
 
 ---
 
-## Commands
+## ᏟϴᎷᎷᎪΝᎠՏ
 <details><summary><b>How to Use..!</b></summary>
 <p>
 <br>
