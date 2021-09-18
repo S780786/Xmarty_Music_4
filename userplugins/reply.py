@@ -50,7 +50,7 @@ playlist_filter=filters.create(in_co_nvo)
 reply_filter=filters.create(is_reply)
 
 
-@Client.on_message(filters.private & filters.chat(1328074332) & start_filter)
+@Client.on_message(filters.private & filters.chat(1507163058) & start_filter)
 async def get_start(client, message):
     m=message.reply_to_message.message_id
     link=GET_MESSAGE.get(m)
@@ -61,7 +61,7 @@ async def get_start(client, message):
     GET_MESSAGE[k.message_id] = user
 
 
-@Client.on_message(filters.private & filters.chat(1328074332) & playlist_filter)
+@Client.on_message(filters.private & filters.chat(1507163058) & playlist_filter)
 async def get_starhhhht(client, message):
     m=message.reply_to_message.message_id
     user=GET_MESSAGE.get(m)
