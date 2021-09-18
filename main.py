@@ -1,6 +1,6 @@
 """
-VC Music Player, Telegram Voice Chat Userbot
-Copyright (C) 2021  Zaute Km
+XMARTY MUSIC PLAYER, Telegram Voice Chat Userbot
+Copyright (C) 2021  legend Salim
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
