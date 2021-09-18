@@ -71,8 +71,7 @@
 <a href="https://heroku.com/deploy?template=https://github.com/S780821/Xmarty_Music_4">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
-<a href="https://youtu.be/FKaAU4Pr2bw"><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Heroku-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/FKaAU4Pr2bw"><img src="https://img.shields.io/youtube/views/FKaAU4Pr2bw?style=social">
+
 </a>
 </p>
 </details>
