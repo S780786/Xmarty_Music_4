@@ -86,8 +86,7 @@
   </a>
 </p>
 
-<a href="https://youtu.be/KC4YdpDGQKg"><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Qovery-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/KC4YdpDGQKg"><img src="https://img.shields.io/youtube/views/KC4YdpDGQKg?style=social">
+
 </a>
 </p>
 
@@ -98,8 +97,8 @@
 <br/>
 
 ```sh
-git clone https://github.com/LushaiMusic/VCMusicPlayer
-cd VCMusicPlayer
+git clone https://github.com/S780821/Xmarty_Music_4
+cd Xmarty_Music_4
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
 python3 main.py
