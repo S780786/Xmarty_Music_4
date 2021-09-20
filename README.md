@@ -72,7 +72,6 @@
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Dᴇᴘʟᴏʏ">
 
 
-</details>
 
 <details>
   <summary><b>ᴅᴇᴘʟᴏʏ ᴏɴ ϙᴏᴠᴇʀʏ</b></summary>
@@ -86,7 +85,6 @@
 
 
 
-</details>
 
 <details>
   <summary><b>Dᴇᴘʟᴏʏ ɪɴ ʏᴏᴜʀ VPS</b></summary>
