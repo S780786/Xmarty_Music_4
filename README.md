@@ -73,6 +73,10 @@
 
 
 
+</a>
+</p>
+</details>
+
 <details>
   <summary><b>ᴅᴇᴘʟᴏʏ ᴏɴ ϙᴏᴠᴇʀʏ</b></summary>
 <br/>
@@ -85,6 +89,10 @@
 
 
 
+</a>
+</p>
+
+</details>
 
 <details>
   <summary><b>Dᴇᴘʟᴏʏ ɪɴ ʏᴏᴜʀ VPS</b></summary>
@@ -97,6 +105,8 @@ pip3 install -r requirements.txt
 # <Create Variables appropriately>
 python3 main.py
 ```
+
+</details>
 
 
 
