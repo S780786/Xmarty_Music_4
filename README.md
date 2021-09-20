@@ -69,17 +69,9 @@
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/S780821/Xmarty_Music_4">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Dᴇᴘʟᴏʏ">
 
-<details>
 
-<details><summary><b>Deploy with Netlify<b></summary>
-<p>
-<br>
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/S780821/XMARTY_MUSIC_4">
-  <img src="https://www.netlify.com/img/deploy/button.svg)]
-</a>
-</p>
 </details>
 
 <details>
@@ -93,13 +85,11 @@
 </p>
 
 
-</a>
-</p>
 
 </details>
 
 <details>
-  <summary><b>ᴅᵉᵖˡᵒʸ ⁱⁿ ʸᵒᵘʳ ᴠᴘs</b></summary>
+  <summary><b>Dᴇᴘʟᴏʏ ɪɴ ʏᴏᴜʀ VPS</b></summary>
 <br/>
 
 ```sh
